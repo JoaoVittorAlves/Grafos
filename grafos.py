@@ -70,9 +70,9 @@ def dfs_pilha(grafo, inicio):
     print()
 
 
-# Programa Principal
+
 def main():
-    # Exemplo de adição manual de arestas, você pode implementar a leitura de arquivo aqui
+    # Exemplo 
     grafo = GrafoListaAdjacencia(4)
     grafo.adicionar_aresta(0, 1)
     grafo.adicionar_aresta(0, 2)
