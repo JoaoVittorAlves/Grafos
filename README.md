@@ -1,1 +1,1 @@
-# Exercício de estrtura de dados sobre grafos
+# Exercício de estrutura de dados: grafos
